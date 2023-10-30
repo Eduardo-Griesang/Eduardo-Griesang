@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi everyone
 
-<!--
-**Eduardo-Griesang/Eduardo-Griesang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently employed as a freelance Full Stack engineer, specializing in front-end tools. My ultimate aspiration is to secure a position at a major tech company like Google or Amazon.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eduardo-griesang-0b779921b/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduardo_griesang/) [![Twitter](https://img.shields.io/badge/TWITTER-000?style=for-the-badge&logo=twitter)](https://twitter.com/EGriesang)
+
+## My tech stack
+
+![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![JavaScrript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript ) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+## My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang) [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang)
