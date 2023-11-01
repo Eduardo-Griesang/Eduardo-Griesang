@@ -13,5 +13,5 @@ I'm currently employed as a freelance Full Stack engineer, specializing in front
 
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang&theme=radical) 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Griesang&theme=tokyonight) 
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang)](https://github-readme-stats.vercel.app/api?username=Eduardo-Griesang&theme=tokyonight)
