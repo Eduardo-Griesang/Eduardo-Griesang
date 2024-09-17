@@ -1,6 +1,6 @@
 # Hi everyone
 
-I'm currently employed as a freelance Full Stack engineer, specializing in front-end tools. My ultimate aspiration is to secure a position at a major tech company like Google or Amazon.
+I'm currently employed as a Development leader at Agile Solutions, specializing in front-end tools. My ultimate aspiration is to secure a position at a major tech company like Google or Amazon.
 
 
 ## Where to find me
